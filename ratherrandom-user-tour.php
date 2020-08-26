@@ -6,6 +6,7 @@
  * Version: 1.0
  * Author: ratheRRandom
  * Author URI: https://www.ratherrandom.website/
+ * GitHub Plugin URI: RatherRandom-Dave/ratherrandom-user-tour
  */
 
 add_action( 'the_content', 'my_thank_you_text' );
